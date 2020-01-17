@@ -129,13 +129,12 @@ li {
   max-width: 1000px;
 }
 
-.centering_block {
-    background-color: #03A9F4;  /* 背景色指定 */
-    width: 200px;               /* 幅指定 */
-    height: 90px;               /* 高さ指定 */
-    margin:  0 auto;            /* 中央寄せ */
+<style>
+.my-frame{
+margin: 0 auto;
+width: 640px;
 }
-
+</style>
 /*--------------------------------
 ヘッダー
 ---------------------------------*/
